@@ -4,8 +4,14 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 import java.util.Map;
+import javax.inject.Inject;
 
-final class CommandRouter {
+public final class CommandRouter {
+
+    @Inject
+    public CommandRouter() {
+    }
+
     private final Map<String, Command> commands = Collections.emptyMap();
 
     Command.Status route(String input) {

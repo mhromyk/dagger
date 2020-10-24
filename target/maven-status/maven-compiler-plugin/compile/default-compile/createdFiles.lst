@@ -1,5 +1,10 @@
-org/mhromyk/atm/di/CommandRouterFactory.class
+org/mhromyk/atm/CommandRouter_Factory$InstanceHolder.class
+org/mhromyk/atm/DaggerCommandRouterFactory$Builder.class
+org/mhromyk/atm/CommandRouter_Factory.class
 org/mhromyk/atm/Command$Status.class
 org/mhromyk/atm/Command.class
+org/mhromyk/atm/DaggerCommandRouterFactory$1.class
+org/mhromyk/atm/CommandRouterFactory.class
 org/mhromyk/atm/CommandRouter.class
+org/mhromyk/atm/DaggerCommandRouterFactory.class
 org/mhromyk/atm/CommandLineAtm.class
